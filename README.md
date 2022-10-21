@@ -1,1 +1,1 @@
-# GifExpertApp_React_FHerrera_Course
+# React course - Fernando Herrera Udemy
